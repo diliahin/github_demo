@@ -17,7 +17,6 @@ class Homework3 {
                 season = Season.WINTER;
                 System.out.println("It's " + season + "!");
                 break;
-
             case "march":
             case "april":
             case "may":
